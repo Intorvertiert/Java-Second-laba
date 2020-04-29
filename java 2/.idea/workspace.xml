@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663bcede-088c-4a5d-bdb3-f9cf488b11eb" name="Default Changelist" comment="" />
+    <list default="true" id="663bcede-088c-4a5d-bdb3-f9cf488b11eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maks 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConstFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SomeFunction1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SomeFunction2.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1au9HdWp4PZlnktk8tKf9aMSucu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,19 +31,70 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java 1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="Main2lab" type="Application" factoryName="Application">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java 2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../java 1/src" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="java 2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="java 2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -45,30 +112,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="485" y="105" key="#Main" timestamp="1587629628579">
+    <state x="485" y="105" width="559" height="683" key="#Main" timestamp="1588197343041">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="485" y="105" key="#Main/0.30.1536.834@0.30.1536.834" timestamp="1587629628579" />
+    <state x="485" y="105" width="559" height="683" key="#Main/0.30.1536.834@0.30.1536.834" timestamp="1588197343041" />
     <state x="485" y="105" width="579" height="683" key="#Main1lab" timestamp="1587634064098">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="485" y="105" width="579" height="683" key="#Main1lab/0.30.1536.834@0.30.1536.834" timestamp="1587634064098" />
-    <state x="485" y="95" key="#Main2lab" timestamp="1587634476432">
+    <state x="485" y="95" key="#Main2lab" timestamp="1588197128945">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="485" y="95" key="#Main2lab/0.30.1536.834@0.30.1536.834" timestamp="1587634476432" />
+    <state x="485" y="95" key="#Main2lab/0.30.1536.834@0.30.1536.834" timestamp="1588197128945" />
     <state x="361" y="105" key="#Project_Structure" timestamp="1587578704296">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="361" y="105" key="#Project_Structure/0.30.1536.834@0.30.1536.834" timestamp="1587578704296" />
-    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587578621512">
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588197111480">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1587578621512" />
-    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1587629379584">
+    <state x="223" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1588197111480" />
+    <state x="495" y="236" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588197176415">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1587629379584" />
+    <state x="495" y="236" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1536.834@0.30.1536.834" timestamp="1588197176415" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1588197425119">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1588197425119" />
     <state width="1493" height="392" key="GridCell.Tab.0.bottom" timestamp="1587634557772">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -89,9 +160,9 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="249" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1587629391300" />
-    <state x="465" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1588168871913">
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1588197032150">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1588168871913" />
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1588197032150" />
   </component>
 </project>
